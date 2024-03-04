@@ -4,14 +4,14 @@ UI development assignment for the Mobile App Development Course (CSE464)
 
 ## App demo
 
-![](/asset/PlanIt.gif)
+<img src="./asset/PlanIt.gif" width="200px">
 
 ## Screenshots
 
 ### Home page
 
-![/asset/homePage.png](/asset/homePage.png)
+<img src="./asset/homePage.png" width="200px">
 
 ### Task Board
 
-![/asset/taskBoard.png](/asset/taskBoard.png)
+<img src="./asset/taskBoard.png" width="200px">

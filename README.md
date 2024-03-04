@@ -1,16 +1,17 @@
 # to_do_flutter_assignment_1
 
-A new Flutter project.
+UI development assignment for the Mobile App Development Course (CSE464)
 
-## Getting Started
+## App demo
 
-This project is a starting point for a Flutter application.
+![](/asset/PlanIt.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![/asset/homePage.png](/asset/homePage.png)
+
+### Task Board
+
+![/asset/taskBoard.png](/asset/taskBoard.png)
